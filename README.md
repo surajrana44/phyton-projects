@@ -12,6 +12,6 @@ I’m uploading project to practice and improve my coding skills. 🚀
 
 2️⃣ Rent Calculator
 
--Simple CLI app that calculates per person rent.
--Takes total rent and number of people as input.
--Splits rent equally and prints each person’s share.
+- Simple CLI app that calculates per person rent.
+- Takes total rent and number of people as input.
+- Splits rent equally and prints each person’s share.
