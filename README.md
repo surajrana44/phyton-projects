@@ -3,7 +3,7 @@
 This repository contains small but useful Python projects I built while learning.  
 I’m uploading project to practice and improve my coding skills. 🚀  
 
-## 📌 Projects Included
+# 📌 Projects Included
 
 1️⃣ QR Code Generator
 
